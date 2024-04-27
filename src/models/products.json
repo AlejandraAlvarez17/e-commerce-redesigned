@@ -1,0 +1,32 @@
+[
+    { 
+        "id": 1,
+        "title":"Impresora Hp",
+        "description":"Impresora multifuncion 2700",
+        "price":3800,
+        "thumbnail":"impresora.jpg",
+        "code":"HP2700",
+        "stock":2000
+    },
+    { 
+        "id": 2,
+        "title":"Auriculares gammer",
+        "description":"Gammer360 grados",
+        "price":360,
+        "thumbnail":"Auriculares.jpg",
+        "code":"Sirie780",
+        "stock":100
+    },
+
+    { 
+         "id": 3,
+         "title":"Teclado Gammer",
+         "description":"Teclado Ultra",
+         "price":500,
+         "thumbnail":"Teclado.jpg",
+         "code": "asd123",
+         "stock": 10 
+     }
+
+]
+ 
